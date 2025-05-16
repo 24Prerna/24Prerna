@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Prerna Dhage – Aspiring Data Scientist | Lifelong Learner | Tech Explorer
+<h2 align="center">Hi there 👋, I'm Prerna Dhage</h2>
+<h4 align="center">Aspiring Data Scientist | Lifelong Learner | Tech Explorer</h4>
 
 🎓 Pursuing **M.Sc. in Data Science**  
 🔍 Passionate about transforming raw data into meaningful insights  
@@ -19,8 +20,8 @@ From decoding patterns in spreadsheets as a BSc Computer Science student to desi
 [![Microsoft Certified: Azure Data Scientist Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/)  
 [![IBM Data Science Professional](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-blue?logo=IBM)](https://coursera.org/)  
 [![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-AI%20Fundamentals-005BA1?logo=microsoft&logoColor=white)](https://www.credly.com/) --> 
-[![Udemy Digital Marketing](https://img.shields.io/badge/Udemy-Digital%20Marketing%20Certified-A435F0?logo=udemy)](https://www.udemy.com/)
-
+[![Udemy Digital Marketing](https://img.shields.io/badge/Udemy-Digital%20Marketing%20Certified-A435F0?logo=udemy)](https://drive.google.com/file/d/1dAevSNt3el8fnECUl-GYzjFNbRTrKZlx/view?usp=drive_link)
+[![Udemy Web Scrapping](https://img.shields.io/badge/Udemy-WEB%20Scrapping%20Certified-A435F0?logo=udemy)](https://drive.google.com/file/d/1y-c9nS72nuCARosEBua2QG9xfnEW7vDj/view?usp=drive_link)
 ---
 
 ## 🛠️ My Tech Toolbox
@@ -62,10 +63,10 @@ Event booking system for venues, caterers, and florists to list and manage servi
 
 - 💼 [LinkedIn](www.linkedin.com/in/prernadhage)
 - 🌐 [Portfolio](https://your-portfolio-link.com) 
-- <!--📫 Email: prernadhage2410@gmail.com-->
+ <!--📫 Email: prernadhage2410@gmail.com
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=24Prerna&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+</p>-->
