@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Prerna Dhage</h2>
+<h2 align="center">Hi there!, I'm Prerna Dhage</h2>
 <h4 align="center">Aspiring Data Scientist | Lifelong Learner | Tech Explorer</h4>
 
 🎓 Pursuing **M.Sc. in Data Science**  
