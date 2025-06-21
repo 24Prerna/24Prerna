@@ -22,7 +22,7 @@ From decoding patterns in spreadsheets as a BSc Computer Science student to desi
 [![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-AI%20Fundamentals-005BA1?logo=microsoft&logoColor=white)](https://www.credly.com/) --> 
 [![Udemy Digital Marketing](https://img.shields.io/badge/Udemy-Digital%20Marketing%20Certified-A435F0?logo=udemy)](https://drive.google.com/file/d/1dAevSNt3el8fnECUl-GYzjFNbRTrKZlx/view?usp=drive_link)
 [![Udemy Web Scrapping](https://img.shields.io/badge/Udemy-WEB%20Scrapping%20Certified-A435F0?logo=udemy)](https://drive.google.com/file/d/1y-c9nS72nuCARosEBua2QG9xfnEW7vDj/view?usp=drive_link)
-[![Microsoft- Career Essential in Generative AI]
+[![Microsoft- Career Essential in Generative AI](https://img.shields.io/badge/microsoft%20GenerativeAI%20Certified-A435F0?logo=microsoft)]
 ---
 
 ## 🛠️ My Tech Toolbox
