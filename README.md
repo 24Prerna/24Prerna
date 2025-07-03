@@ -46,9 +46,8 @@ From decoding patterns in spreadsheets as a BSc Computer Science student to desi
 ![Placement Navigator](https://img.shields.io/badge/Project-Placement%20Navigator-green)
 
 ### 🔹 Smart Car Acceptability Predictor 
-Developed a predictive model to classify cars as "unacceptable," "acceptable," "good," or "very good" based on features like price, maintenance cost, doors, capacity, luggage size, and safety. 
-Implemented Decision Tree, Random Forest, and SVM algorithms using Python (scikit-learn) to compare performance and optimize accuracy.
-*Python, Machine Learning, Pandas, Numpy*\n
+Developed a predictive model to classify cars as "unacceptable," "acceptable," "good," or "very good" based on features like price, maintenance cost, doors, capacity, luggage size, and safety. Implemented Decision Tree, Random Forest, and SVM algorithms using Python (scikit-learn) to compare performance and optimize accuracy.
+*Python, Machine Learning, Pandas, Numpy*
 ![Car Acceptability Predictor](https://img.shields.io/badge/Project-Car%20Acceptability-orange)
 
 ### 🔹 Third-Party Event Management  
