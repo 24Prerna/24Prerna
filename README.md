@@ -31,7 +31,8 @@ From decoding patterns in spreadsheets as a BSc Computer Science student to desi
 |------------------|--------------|
 | **Languages**    | Python, SQL, PHP, JavaScript, HTML/CSS |
 | **Libraries**    | Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib |
-| **Data Tools**   | Power BI, Jupyter, PostgreSQL, MySQL |
+| **Data Tools**   | Power BI, Data pipeline, Data Modelling, Spark |
+| **Cloud Technology** | AWS |
 | **Web & Scripting** | BeautifulSoup, Scrapy |
 | **Soft Skills**  | Communication, Team Collaboration, Public Speaking |
 
@@ -43,6 +44,11 @@ From decoding patterns in spreadsheets as a BSc Computer Science student to desi
 **Data-driven platform** that matches students with jobs using academic data and scraped job listings.  
 *Python, Pandas, NumPy, BeautifulSoup, Matplotlib, Seaborn*  
 ![Placement Navigator](https://img.shields.io/badge/Project-Placement%20Navigator-green)
+
+### 🔹 Smart Car Acceptability Predictor 
+Developed a predictive model to classify cars as "unacceptable," "acceptable," "good," or "very good" based on features like price, maintenance cost, doors, capacity, luggage size, and safety. 
+*Implemented Decision Tree, Random Forest, and SVM algorithms using Python (scikit-learn) to compare performance and optimize accuracy* 
+![Car Acceptability Predictor](https://img.shields.io/badge/Project-Car%20Acceptability-green)
 
 ### 🔹 Third-Party Event Management  
 Event booking system for venues, caterers, and florists to list and manage services.  
